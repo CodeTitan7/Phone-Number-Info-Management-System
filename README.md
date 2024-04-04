@@ -1,6 +1,6 @@
 # Phone Number Management System
 
-This project is a simple Python program that allows you to manage phone number records using a MySQL database. You can perform actions such as adding, modifying, deleting, and displaying records.
+The project is a simple Python program that allows you to manage phone number records using a MySQL database. You can perform actions such as adding, modifying, deleting, and displaying records.
 
 ## Prerequisites
 
